@@ -90,6 +90,14 @@ npm install aws-amplify-vue
 
 ```
 
+### cognintを使ったログイン周り
+
+個別に認証をする場合は下記のようにしなくてはいけないが、
+https://github.com/umanari145/cogninto
+```aws-amplify-vue```を入れれば``` src/main.js```の記述だけで認証ロジックを入れることができる
+
+https://day-journal.com/memo/try-024/
+
 
 ## vueコマンド
 

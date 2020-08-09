@@ -1,12 +1,15 @@
 <template>
-  <div class="hello">
-    test
+  <div>
+    ログインしました。
+    <amplify-sign-out></amplify-sign-out>
   </div>
 </template>
 
 <script>
+
+
 export default {
-  name: 'HelloWorld',
+  name: 'Home',
   props: {
     msg: String
   }
