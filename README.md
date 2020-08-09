@@ -82,6 +82,7 @@ REST API endpoint: https://lvgfqvymll.execute-api.us-east-1.amazonaws.com/dev
 
 ```
 
+
 ## vue インストール
 ```
 npm install aws-amplify
