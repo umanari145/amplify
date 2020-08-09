@@ -1,24 +1,39 @@
-# amplify_vue
+# amplify
 
-## Project setup
+amplify + vue のサンプル
+
+## 前提インストール
 ```
-npm install
+npm install -g @vue/cli
+npm install -g @aws-amplify/cli
 ```
 
-### Compiles and hot-reloads for development
+## vue インストール
+```
+npm install aws-amplify
+npm install aws-amplify-vue
+
+```
+
+
+## vueコマンド
+
+### プロジェクト作成
+```
+vue create プロジェクト名
+```
+
+### ホットリロード
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### ビルド
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### linter&check
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
