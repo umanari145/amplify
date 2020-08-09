@@ -116,5 +116,5 @@ npm run lint
 ## 参考URL
 
 https://www.cresco.co.jp/blog/entry/11142/
-
 https://note.com/yiio/n/n8013a2216a08
+https://fixel.co.jp/blog/amplify-severless-webapp/
